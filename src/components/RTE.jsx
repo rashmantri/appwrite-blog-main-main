@@ -12,7 +12,7 @@ export default function RTE({ name, control, label, defaultValue = "" }) {
 				control={control}
 				render={({ field: { onChange } }) => (
 					<Editor
-						apiKey="shjrr4vrizauoup1c6zqnlc7hq1ugccpc83bm4sh4wjx78bi"
+						apiKey={import.meta.env.VITE_RTE_API_KEY}
 						init={{
 							plugins: [
 								// Core editing features
