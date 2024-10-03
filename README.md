@@ -10,7 +10,6 @@ Brief description of what the project does and its purpose.
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
